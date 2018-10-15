@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PairProgramming
+comment1.params=
+comment1.target=PairProgramming()
+comment2.params=
+comment2.target=java.util.ArrayList\ erzeugeNamenliste()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=
+comment4.target=void\ alleMitarbeiterAnzeigen()
+comment5.params=
+comment5.target=java.lang.String\ mitarbeiterAuslosen()
+comment6.params=
+comment6.target=java.lang.String\ einTeamAuslosen()
+comment7.params=
+comment7.target=void\ teamsZusammenstellen()
+numComments=8
